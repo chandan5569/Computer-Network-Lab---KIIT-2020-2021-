@@ -2,6 +2,7 @@
 Computer Networking Lab Program.
 
 LAB 01 QUESTIONS.(REVISING C LANGUAGE CONCEPT)
+==============================================
 
 1. Write a C program to swap the content of 2 variables using pointer.
 
@@ -26,7 +27,8 @@ char ch3;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-LAB 03 QUESTIONS.
+LAB 03 QUESTIONS.(UDP PROGRAMS)
+=================================
 
 1. Write a C program in UDP to send a message from client to server device.
 2. Write a C program in UDP to send a message from server to client device.
@@ -35,6 +37,7 @@ LAB 03 QUESTIONS.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 LAB O4 QUESTIONS.(UDP PROGRAMS)
+====================================
 
 Q1)  Write a program to pass a string from client to server. Display the lower case message in the server. Further, convert the message from lower case to upper case and display the converted message in client side.
 
@@ -50,6 +53,7 @@ Hometask: For practice purpose we can pass an integer array from client to serve
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 LAB 05 QUESTIONS.(TCP PROGRAMS)
+====================================
 
 1. Write a C program in TCP to send a message "Hello KIIT" from client to server. The server will display the message and then send a response message "Thank you" to the client. The client will display the response message.
 
