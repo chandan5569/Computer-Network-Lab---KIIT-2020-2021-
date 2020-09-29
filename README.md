@@ -1,6 +1,31 @@
 # Computer-Network-Lab---KIIT-2020-2021-
 Computer Networking Lab Program.
 
+LAB 01 QUESTIONS.(REVISING C LANGUAGE CONCEPT)
+
+1. Write a C program to swap the content of 2 variables using pointer.
+
+2. Write a C program to assign values to each members of the following structure. Pass the populated structure to a function Using call-by address and print the value of each member of the structure with in that function.
+struct info{
+int roll_no;
+char name[50];
+float CGPA;
+}
+
+3. Write a C program to extract each byte from a given number and store them in separate character variables and print the content of those variables.
+
+4. Write a C Program to enter a number and store the number across the following structure and print the content of each member of the structure. Then aggregate each member of the structure to form the original number and print the same.
+struct pkt{
+char ch1;
+char ch2[2];
+char ch3;
+};
+
+5.Write a C program to check whether the Host machine is in Little Endian or Big Endian. Enter a number, print the content of each byte location and Convert the Endianness of the same i.e. Little to Big Endian and vice-versa.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 LAB 03 QUESTIONS.
 
 1. Write a C program in UDP to send a message from client to server device.
