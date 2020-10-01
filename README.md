@@ -71,7 +71,7 @@ QUIZ ON 30-09-2020 BY KUNAL ANAND
 SET B
 =======
 
-QUE 1: Write a program to send an integer array to the server from the client and add two consecutive location and store in the last consecutive location, without using third variable or extra array and display the resultant array.
+QUE 1: Write a program to send an integer array to the server from the client and add two consecutive location and store in the last consecutive location, without using third variable or extra array and display the resultant array.( IN TCP )
 
 for example:
 input array is, 10 20 30 40 50 60
