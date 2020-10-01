@@ -64,3 +64,17 @@ LAB 05 QUESTIONS.(TCP PROGRAMS)
 4. Write a C program in TCP to send an integer array from client to server. On the server side, display the array and determine the sum of elements. This sum will be sent back to the client and display on the client side.
 
 5. Write a C program in TCP to send an integer array from client to server. Display the array on the server machine and determine the second largest element of the array.
+
+QUIZ ON 30-09-2020 BY KUNAL ANAND
+======================================
+
+SET B
+=======
+
+QUE 1: Write a program to send an integer array to the server from the client and add two consecutive location and store in the last consecutive location, without using third variable or extra array and display the resultant array.
+
+for example:
+input array is, 10 20 30 40 50 60
+output array is, 10 30 50 70 90 110
+
+QUE 2: WAP to send a string from client to server using udp where server will count no of consonants present in the string.
