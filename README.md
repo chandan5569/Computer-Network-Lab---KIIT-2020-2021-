@@ -78,3 +78,8 @@ input array is, 10 20 30 40 50 60
 output array is, 10 30 50 70 90 110
 
 QUE 2: WAP to send a string from client to server using udp where server will count no of consonants present in the string.
+
+LAB 07: Use of SELECT() system call.
+=========================================
+
+Que1: Write a C program in TCP to demonstrate the use of select() system call in the context of I/O multiplexing.
